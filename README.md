@@ -10,7 +10,7 @@
 
 You can view the live demo of this portfolio website on Netlify:
 <br>
-LIVE:  "https://spectacular-twilight-43490f.netlify.app/"
+LIVE:  "https://inspiring-kitsune-505a69.netlify.app"
 
 ## Pages
 
