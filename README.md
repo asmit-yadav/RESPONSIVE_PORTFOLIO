@@ -10,7 +10,7 @@
 
 You can view the live demo of this portfolio website on Netlify:
 <br>
-LIVE:  "https://asmit-yadav.github.io/RESPONSIVE_PORTFOLIO/"
+LIVE:  "https://spectacular-twilight-43490f.netlify.app/"
 
 ## Pages
 
